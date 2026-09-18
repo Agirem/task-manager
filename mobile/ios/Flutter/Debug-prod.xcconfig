@@ -1,0 +1,4 @@
+#include "Debug.xcconfig"
+
+APP_DISPLAY_NAME=Task Manager
+PRODUCT_BUNDLE_IDENTIFIER=com.taskmanager.mobile
